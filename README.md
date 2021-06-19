@@ -1,6 +1,7 @@
 # MedicalAppointmentsEDA
 Exploratory data analysis for medical appointments data of people who show or no show in the appointments.<br>
 In this analysis I am trying to identify insight about patients and the reasons that lead mosly for no-show in appointements.
+
 <h2>Dataset Features</h2>
 - <b>PatientId,AppointmentID</b>
 <br>- <b>Gender</b>: Male or female
@@ -12,5 +13,8 @@ In this analysis I am trying to identify insight about patients and the reasons 
 <br>- <b>Hipertension, Diabetes,Alcoholism,Handcap</b>: Condition seriousness
 <br>- <b>SMS_received</b>: did the patient receive messages?
 <br>- <b>No-show</b>: did the patient show up in the scheduled day?
+
+<br><b>Correlation Matrix</b><br>
+![Correlation Matrix](https://github.com/MSamy1/MedicalAppointmentsEDA/blob/main/Correlation%20matrix.png)
 <h2>- Datasource</h2>
 https://www.kaggle.com/joniarroba/noshowappointments
